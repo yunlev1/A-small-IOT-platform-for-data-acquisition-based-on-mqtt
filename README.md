@@ -1,0 +1,2 @@
+# A-small-IOT-platform-for-data-acquisition-based-on-mqtt
+Start from 0 to build a platform with web and Android display to display the temperature and humidity data collected from the client; esp32 collects local data, builds an Internet of things gateway locally to receive, receive, subscribe and upload messages, and upload them to the mqtt server and MySQL database built on the cloud server. Android uses PAHO mqtt to complete real-time subscription and web page uses read database Real time display.
